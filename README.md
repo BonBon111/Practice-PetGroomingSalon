@@ -1,5 +1,7 @@
 # Practice-PetGroomingSalon
 This is a practice project for front-end web development that I created by following the tutorials of <a href="https://www.youtube.com/CristianMihai01" target="_blank">[Cristian Mihai]</a> on YouTube. 
+## Live Link
+<a href="https://bonbon-practice-pet-grooming-salon.vercel.app/" target="_blank">Click Here</a>
 ## Stack in Use
 React.js + Tailwind CSS
 ## Features
@@ -8,6 +10,4 @@ React.js + Tailwind CSS
 3. Contact page that includes a form for users to submit inquiries or appointment requests
 4. Footer with social media links and a copyright notice
 ## Credits
-<a href="https://www.youtube.com/CristianMihai01" target="_blank">[Cristian Mihai]</a> for providing the awesome tutorial that inspired this project
-## Live Link
-<a href="#" target="_blank">Click Here</a>
+<a href="https://www.youtube.com/CristianMihai01" target="_blank">[Cristian Mihai]</a> for providing the awesome tutorial that inspired this project. Highly recommend his channel for anyone interested in React.
