@@ -11,3 +11,4 @@ React.js + Tailwind CSS
 4. Footer with social media links and a copyright notice
 ## Credits
 <a href="https://www.youtube.com/CristianMihai01" target="_blank">[Cristian Mihai]</a> for providing the awesome tutorial that inspired this project. Highly recommend his channel for anyone interested in React.
+## Next steps
