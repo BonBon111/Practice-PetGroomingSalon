@@ -1,7 +1,7 @@
 # Practice-PetGroomingSalon
 This is a practice project for front-end web development that I created by following the tutorials of <a href="https://www.youtube.com/CristianMihai01" target="_blank">[Cristian Mihai]</a> on YouTube. 
 ## Live Link
-<a href="https://jasminetsui-practice-pet-grooming-salon.vercel.app/" target="_blank">Click Here</a>
+<a href="https://jasminetsui99-practice-pet-grooming-salon.vercel.app/" target="_blank">Click Here</a>
 ## Stack in Use
 React.js + Tailwind CSS
 ## Features
